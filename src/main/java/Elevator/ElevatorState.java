@@ -1,8 +1,8 @@
 package Elevator;
 
 public enum ElevatorState {
-    NOT_WORKING, // Не работает
-    MOVING_UP,   // Едет вверх
+    NOT_WORKING,
+    MOVING_UP,
     MOVING_DOWN,
     STANDING
 }
